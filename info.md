@@ -80,3 +80,14 @@ Para voltar a ultima migration
 ```sh
      npm run knex -- migrate:rollback
 ```
+## testes
+
+```sh
+     npm i vitest -D
+```
+```sh
+      npm i supertest -D   
+```
+```sh
+      npm i -D @types/supertest
+```
